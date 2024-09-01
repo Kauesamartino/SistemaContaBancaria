@@ -1,6 +1,6 @@
 # DesafioContaBancaria
 ## Descrição
-O projeto "Desafio" é uma aplicação simples em Java que simula um sistema bancário básico. O sistema permite ao usuário consultar seu saldo, receber valores, transferir valores e encerrar a aplicação. Ele é uma boa introdução para quem está aprendendo Java e deseja praticar a utilização de entradas e saídas, além de estruturas de controle.
+O projeto "Sistema de conta bancária" é uma aplicação simples em Java que simula um sistema bancário básico. O sistema permite ao usuário consultar seu saldo, receber valores, transferir valores e encerrar a aplicação. Ele é uma boa introdução para quem está aprendendo Java e deseja praticar a utilização de entradas e saídas, além de estruturas de controle.
 
 ## Funcionalidades
 Consultar saldos: Exibe o saldo atual da conta.
