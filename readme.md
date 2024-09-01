@@ -26,7 +26,7 @@ Sair: Encerra o sistema.
 
 
 ## Exemplo de Uso
-```
+```java
 Digite seu nome:
 João Silva
 Digite o tipo da sua conta
